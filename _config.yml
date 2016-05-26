@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.05744681
+color:
+  lightness: 1
+  brandStrength: 0.6132194
+  saturation: 0.7021276
+  rhythmicContrast: 1
+  brandColors:
+    - '#DDE3E3'
+    - '#070706'
+    - '#AD8D74'
+    - '#A1531A'
+    - '#362F30'
+name: babaglass
