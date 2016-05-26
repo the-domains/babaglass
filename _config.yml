@@ -1,14 +1,26 @@
 layout_spectrum: 1
-typography_spectrum: 0.05744681
+name: babaglass
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  lightness: 1
   brandStrength: 0.6132194
   saturation: 0.7021276
-  rhythmicContrast: 1
   brandColors:
     - '#DDE3E3'
     - '#070706'
     - '#AD8D74'
     - '#A1531A'
     - '#362F30'
-name: babaglass
+  lightness: 1
+  rhythmicContrast: 1
+typography_spectrum: 0.05744681
