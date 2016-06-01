@@ -1,17 +1,5 @@
 layout_spectrum: 0.2893617
 name: babaglass
-typography_spectrum: 0.3212766
-color:
-  brandStrength: 0.6132194
-  saturation: 1
-  brandColors:
-    - '#E3EDF9'
-    - '#2E9ECE'
-    - '#F6A043'
-    - '#5D6F7B'
-    - '#030B03'
-  lightness: 0.8276595
-  rhythmicContrast: 0.4957447
 collections:
   - index:
       navigable: true
@@ -24,3 +12,15 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+color:
+  brandStrength: 0.7978724
+  lightness: 0.8276595
+  saturation: 1
+  rhythmicContrast: 0.4957447
+  brandColors:
+    - '#E3EDF9'
+    - '#2E9ECE'
+    - '#F6A043'
+    - '#5D6F7B'
+    - '#030B03'
+typography_spectrum: 0.3212766
